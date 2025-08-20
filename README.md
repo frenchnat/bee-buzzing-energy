@@ -19,7 +19,7 @@ Repository containing the processed data, analysis workflows, and figure code fo
   - `for_R/` → processed inputs for R scripts (figures/tables).
 - **notebooks/** → Python notebooks for data processing.
 - **R/** → R scripts for statistical analyses and figure generation.
-- **figures/** and **results/** → outputs from the R scripts.
+- **figures/** → outputs from the R scripts.
 
 > Figures come from **R scripts**. Notebooks are for **data processing**.
 
@@ -39,7 +39,7 @@ Repository containing the processed data, analysis workflows, and figure code fo
    8. `nectar volume computation.ipynb`
 
 2. **Run the R scripts** (in `R//`, e.g. in RStudio).  
-   These read from `data/for_R/` and produce outputs in `figures/` and `results/`.
+   These read from `data/for_R/` and produce outputs in `figures/`.
 
 ---
 
