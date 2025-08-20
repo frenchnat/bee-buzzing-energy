@@ -5,10 +5,10 @@
 Repository containing the processed data, analysis workflows, and figure code for the manuscript:
 
 > **First direct quantification of floral handling costs in bees**  
-> Authors: Natacha Rossi, Mario Vallejo-Marín, Elizabeth Nicholls
+> Authors: 
 
-**Corresponding author:** Natacha Rossi — natasha.rossi@hotmail.fr  
-**ORCID:** 0000-0002-3631-9019
+**Corresponding author:**  
+**ORCID:** 
 
 ---
 
@@ -48,7 +48,7 @@ Repository containing the processed data, analysis workflows, and figure code fo
 Processed data used by the notebooks and R scripts are provided within this repository under `data/for_notebooks/` and `data/for_R/`.
 
 **Data citation**  
-Rossi, N., Vallejo-Marín, M., & Nicholls, E. (2025). *Data and code for: First direct quantification of floral handling costs in bees* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.16877020
+ (2025). *Data and code for: First direct quantification of floral handling costs in bees* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.16877020
 
 ---
 
@@ -62,4 +62,4 @@ Please cite:
 
 ## Contact
 
-Questions or issues? Email **natasha.rossi@hotmail.fr**.
+Questions or issues? Email .
